@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 4 Testing Functionality
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Nuxt 4 documentation](https://nuxt.com/docs/getting-started/upgrade#testing-nuxt-4) to learn more.
 
 ## Setup
 
